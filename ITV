@@ -61,6 +61,42 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "浙江rtp2http2",
+            "type": 0,
+            "url": "http://122.233.197.46:9999/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "广东rtp2http",
+            "type": 0,
+            "url": "http://156.233.226.200:10086/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "上海rtp2http",
+            "type": 0,
+            "url": "http://218.1.144.194:9999/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "上海rtp2http2",
+            "type": 0,
+            "url": "http://johnsimon.vicp.net:8083/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "江苏rtp2http",
+            "type": 0,
+            "url": "http://tv.miaoco.me/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "江苏rtp2http2",
+            "type": 0,
+            "url": "http://180.105.201.175:9981/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "四川rtp2http",
             "type": 0,
             "url": "http://nbdx.x3322.net:8888/playlist.m3u",
@@ -85,27 +121,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "广东rtp2http",
-            "type": 0,
-            "url": "http://156.233.226.200:10086/playlist.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "湖北rtp2http",
             "type": 0,
             "url": "http://221.232.103.203:3333/playlist.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "江苏rtp2http",
-            "type": 0,
-            "url": "http://tv.miaoco.me/playlist.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "江苏rtp2http2",
-            "type": 0,
-            "url": "http://180.105.201.175:9981/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
