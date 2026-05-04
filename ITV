@@ -67,6 +67,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "浙江rtp2http3",
+            "type": 0,
+            "url": "http://47.110.243.216:7088/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "广东rtp2http",
             "type": 0,
             "url": "http://156.233.226.200:10086/playlist.m3u",
@@ -82,6 +88,12 @@
             "name": "上海rtp2http2",
             "type": 0,
             "url": "http://johnsimon.vicp.net:8083/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "上海rtp2http3",
+            "type": 0,
+            "url": "http://116.237.155.124:8686/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -106,6 +118,12 @@
             "name": "四川rtp2http2",
             "type": 0,
             "url": "http://171.223.122.41:4022/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "四川rtp2http3",
+            "type": 0,
+            "url": "http://171.223.122.106:5678/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
