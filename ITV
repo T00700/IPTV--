@@ -55,6 +55,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "北京rtp2http2",
+            "type": 0,
+            "url": "http://123.119.167.194:8177/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "浙江rtp2http",
             "type": 0,
             "url": "http://183.149.40.16:4343/playlist.m3u",
@@ -252,7 +258,12 @@
             "url": "https://im5k.fun/vip.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "群友TV",
+            "type": 0,
+            "url": "https://xgtl.wsmywlkj.top/sub/op234/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
         {
@@ -268,9 +279,9 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "夏玉芬",
+            "name": "小香",
             "type": 0,
-            "url": "http://ok.zoho.to//i/?T=夏玉芬",
+            "url": "http://ok.zoho.to//i/?T=小香",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
