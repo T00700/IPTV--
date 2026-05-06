@@ -13,7 +13,13 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "咪咕",
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "咪咕直播2",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
@@ -49,17 +55,18 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "北京rtp2http",
+            "name": "简单ITV",
             "type": 0,
-            "url": "http://221.223.181.136:8888/playlist.m3u",
+            "url": "https://cdn.qd.je/live.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "北京rtp2http2",
+            "name": "组播IPTV",
             "type": 0,
-            "url": "http://123.119.167.194:8177/playlist.m3u",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+
         {
             "name": "浙江rtp2http",
             "type": 0,
@@ -82,6 +89,24 @@
             "name": "广东rtp2http",
             "type": 0,
             "url": "http://156.233.226.200:10086/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "北京rtp2http",
+            "type": 0,
+            "url": "http://221.223.181.136:8888/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "北京rtp2http2",
+            "type": 0,
+            "url": "http://123.119.167.194:8177/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "北京rtp2http3",
+            "type": 0,
+            "url": "http://114.250.22.176:7008/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -156,6 +181,11 @@
             "url": "http://222.137.251.244:8888/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+
+
+
+
+
         {
             "name": "JACKTV",
             "type": 0,
@@ -169,99 +199,93 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "组播IPTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "飞越直播1",
-            "type": 0,
-            "url": "https://d.kstore.dev/download/11344/yunduan.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "飞越直播2",
-            "type": 0,
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "Kimentanm",
-            "type": 0,
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "Itvlist",
-            "type": 0,
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "Suxuang",
-            "type": 0,
-            "url": "https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "FREETV",
-            "type": 0,
-            "url": "https://t.freetv.fun/m3u/playlist.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "宝藏直播",
-            "type": 0,
-            "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "电视家",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/电视家.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "裤佬TV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "黄蚂蚁",
+            "name": "日后TV",
             "type": 0,
-            "url": "http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt",
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 2
+        },
+        {
+            "name": "潇雨萌萌TV",
+            "type": 0,
+            "url": "https://ds65.tv1288.xyz",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 1
+        },
+        {
+            "name": "宫殿TV",
+            "type": 0,
+            "url": "https://gongdian.top/tv/iptv",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 1
+        },
+        {
+            "name": "易发TV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "港台TV1",
+            "name": "飞越TV1",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/FGBLH/FG/refs/heads/main/%E6%B8%AF%E5%8F%B0%E5%A4%A7%E9%99%86",
+            "url": "https://d.kstore.dev/download/11344/yunduan.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "港台TV2",
+            "name": "飞越TV2",
             "type": 0,
-            "url": "https://feer-cdn-bp.xpnb.qzz.io/xnkl.txt",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "港台TV3",
+            "name": "宝藏TV",
             "type": 0,
-            "url": "http://tv123.vvvv.ee/tv.m3u",
+            "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "74TV",
+            "name": "Kimentanm TV",
             "type": 0,
-            "url": "https://im5k.fun/vip.m3u",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "群友TV",
+            "name": "Mzky TV",
             "type": 0,
-            "url": "https://xgtl.wsmywlkj.top/sub/op234/playlist.m3u",
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/mzky/checklist/refs/heads/master/itvlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "Suxuang TV",
+            "type": 0,
+            "url": "https://gh-proxy.org/raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "日本TV",
+            "type": 0,
+            "url": "http://bt.sc1970.xyz:9099/web.utako.moe/jp.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "海外TV",
+            "type": 0,
+            "url": "https://proxy.api.030101.xyz/iptv-org.github.io/iptv/index.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "FreeTV",
+            "type": 0,
+            "url": "https://t.freetv.fun/m3u/playlist.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -343,13 +367,7 @@
             "url": "https://gh-proxy.com/raw.githubusercontent.com/FGBLH/FG/refs/heads/main/4gtv",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "STREAM-LINK[云梯]",
-            "type": 0,
-            "url": "https://www.stream-link.org/playlist.m3u?token=eb7c5a18-d1f8-4749-84a2-9e9c8937c24e&hmac=75369073948ee6f9ef1aa65dbcd754f1",
-            "ua": "SYTV/1.6",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
 
         {
