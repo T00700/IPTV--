@@ -978,6 +978,19 @@ TVBS新闻,https://litv.tzh911.qzz.io/litv.php?id=media-live072&token=https://t.
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 中天新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
 SBN全球财经,https://litv.tzh911.qzz.io/litv.php?id=4gtv-live060&token=https://t.me/GPT_858
+TVBS,http://220.135.64.124:5050/media-live073/index.m3u8?proxy=true
+TVBS新闻,http://220.135.64.124:5050/media-live072/index.m3u8?proxy=true
+东森财经新闻,http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
+东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
+华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
+寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+寰宇新闻台湾,http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
+镜电视新闻,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
+三立新闻iNEWS,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
+中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
+SBN全球财经,http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
 ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
@@ -1583,6 +1596,23 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 衢州公共,http://sss918.synology.me:8000/udp/233.50.202.12:5140
 衢州综合,http://sss918.synology.me:8000/udp/233.50.202.11:5140
 温州综合,http://sss918.synology.me:8000/udp/233.50.201.87:5140
+上海频道,#genre#
+第一财经,http://47.100.29.86:29009/cms001/ch00000090990000001017/index.m3u8
+东方财经,http://47.100.29.86:29009/cms001/ch00000090990000001318/index.m3u8
+上海新闻,http://47.100.29.86:29009/cms001/ch00000090990000001014/index.m3u8
+上海都市,http://47.100.29.86:29009/cms001/ch00000090990000001015/index.m3u8
+上海教育,http://47.100.29.86:29009/cms001/ch00000090990000001268/index.m3u8
+五星体育,http://47.100.29.86:29009/cms001/ch00000090990000001018/index.m3u8
+东方影视,http://47.100.29.86:29009/cms001/ch00000090990000001016/index.m3u8
+都市剧场,http://47.100.29.86:29009/cms001/ch00000090990000001203/index.m3u8
+多彩文体4K,http://47.100.29.86:29009/cms001/ch00000090990000001193/index.m3u8
+乐游,http://47.100.29.86:29009/cms001/ch00000090990000001200/index.m3u8
+金色学堂,http://47.100.29.86:29009/cms001/ch00000090990000001194/index.m3u8
+法治天地,http://47.100.29.86:29009/cms001/ch00000090990000001195/index.m3u8
+生活时尚,http://47.100.29.86:29009/cms001/ch00000090990000001199/index.m3u8
+游戏风云,http://47.100.29.86:29009/cms001/ch00000090990000001192/index.m3u8
+哈哈炫动,http://47.100.29.86:29009/cms001/ch00000090990000001232/index.m3u8
+动漫秀场,http://47.100.29.86:29009/cms001/ch00000090990000001196/index.m3u8
 音乐频道,#genre#
 Первый Музыкальный,http://hz1.teleport.cc/HLS/HD.m3u8
 Первый Музыкальный,http://rtmp.one.by:1200/
@@ -1766,164 +1796,7 @@ SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
 SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
 Tnt Sports1,http://iptv.4666888.xyz/iptv2A.php?id=3
 智林体育,http://iptv.4666888.xyz/iptv2A.php?id=5
-RiHou港台,#genre#
-TVBS,http://rihou.cc:555/tv/hktv/tb19tw0812tw
-东森新闻,http://rihou.cc:555/tv/hktv/tw0814tw
-寰宇新闻,http://rihou.cc:555/tv/hktv/tb19tw0815tw
-中视新闻,http://rihou.cc:555/tv/hktv/tb19tw0816tw
-中天新闻,http://rihou.cc:555/tv/hktv/tb19tw0811tw
-镜新闻,http://rihou.cc:555/tv/[Hk]闽镜新闻
-凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
-凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-NOW新闻,http://rihou.cc:555/tv/[Cx]Now新闻
-TVB新闻,http://rihou.cc:555/tv/[Pd]无线新闻
-TVB明珠,http://rihou.cc:555/tv/[Pd]无线明珠
-TVB翡翠4K,http://rihou.cc:555/tv/[Pd]无线翡4k
-TVB翡翠,http://rihou.cc:555/tv/[Pd]无线翡翠
-TVB Plus,http://rihou.cc:555/tv/[Pd]Plus综合
-TVB功夫,http://rihou.cc:555/tv/[Pd]无线功夫
-TVB华丽,http://rihou.cc:555/tv/[Pd]无线华丽
-TVB千禧,http://rihou.cc:555/tv/[Pd]无线千禧
-TVB星河,http://rihou.cc:555/tv/[Pd]无线星河
-TVB娱乐,http://rihou.cc:555/tv/[Pd]无线娱乐
-HOY77,http://rihou.cc:555/tv/[Cx]有线综合
-HOY77,http://rihou.cc:555/tv/[Pd]有线综合
-RTHK-31,http://rihou.cc:555/tv/[Cx]RTHK-31
-RTHK-32,http://rihou.cc:555/tv/[Cx]RTHK-32
-VIUTV英,http://rihou.cc:555/tv/[Cx]VIUTV英
-VIUTV粤,http://rihou.cc:555/tv/[Cx]VIUTV粤
-邵氏电影,http://rihou.cc:555/tv/[FY]邵氏电影
-邵氏动作,http://rihou.cc:555/tv/[FY]邵氏动作
-邵氏武侠,http://rihou.cc:555/tv/[FY]邵氏武侠
-邵氏喜剧,http://rihou.cc:555/tv/[FY]邵氏喜剧
-龙华电影,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华经典,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华卡通,http://rihou.cc:555/tv/[Pd]龙华卡通
-龙华偶像,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧,http://rihou.cc:555/tv/[Pd]龙华戏剧
-龙华洋片,http://rihou.cc:555/tv/[Pd]龙华洋片
-八度空间,http://rihou.cc:555/tv/[Pd]八度空间
-CH5综合,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合,http://rihou.cc:555/tv/[Pd]CH8综合
-CHU综合,http://rihou.cc:555/tv/[Pd]CHU综合
-广州新闻,http://rihou.cc:555/tv/[Cx]广州新闻
-广州综合,http://rihou.cc:555/tv/[Cx]广州综合
-广州南国,http://rihou.cc:555/tv/[Cx]广州南国
-广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
-广东体育,http://rihou.cc:555/tv/[Cx]广东体育
-澳视澳门,http://rihou.cc:555/tv/[Pd]澳视澳门
 经典轮播,#genre#
 经典老歌轮播,https://down-hls.qxiu.com/live/461450/index.m3u8
 经典短剧轮播,https://down-hls.qxiu.com/live/455246/index.m3u8
 经典电影轮播,https://down-hls.qxiu.com/live/453135/index.m3u8
-南北朝鲜,#genre#
-KCTV朝鲜中央电视台,http://bt.sc1970.xyz:9099/tv.intchoson.com/kctv/main_stream.m3u8
-3CTS,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1221451245?profile=webtv-vp8-vorbis-webm
-Animax,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/143163042?profile=webtv-vp8-vorbis-webm
-AniOne 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1387143402?profile=webtv-vp8-vorbis-webm
-Arirang TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1963949045?profile=webtv-vp8-vorbis-webm
-Ch ever,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/801491230?profile=webtv-vp8-vorbis-webm
-Ch NOW,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1404214794?profile=webtv-vp8-vorbis-webm
-Channel A,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/758811971?profile=webtv-vp8-vorbis-webm
-Channel B tv,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/714578662?profile=webtv-vp8-vorbis-webm
-Channel China,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1416174211?profile=webtv-vp8-vorbis-webm
-Channel EM,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/335503108?profile=webtv-vp8-vorbis-webm
-Channel S Plus,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/732019743?profile=webtv-vp8-vorbis-webm
-Channel S,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/2119069958?profile=webtv-vp8-vorbis-webm
-Channel View,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1661403263?profile=webtv-vp8-vorbis-webm
-Cinef 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1660621746?profile=webtv-vp8-vorbis-webm
-CJ OnStyle +,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1375116942?profile=webtv-vp8-vorbis-webm
-CJ OnStyle 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/424677725?profile=webtv-vp8-vorbis-webm
-CMC TV 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/2006666915?profile=webtv-vp8-vorbis-webm
-CN TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1774798709?profile=webtv-vp8-vorbis-webm
-Comedy TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1297843101?profile=webtv-vp8-vorbis-webm
-CPBC 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1977116306?profile=webtv-vp8-vorbis-webm
-Drama Cube,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1100685455?profile=webtv-vp8-vorbis-webm
-Dramax1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/522827083?profile=webtv-vp8-vorbis-webm
-E Channel,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1087290880?profile=webtv-vp8-vorbis-webm
-EBS Plus 2,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/739996427?profile=webtv-vp8-vorbis-webm
-EBS+ 2,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1757169327?profile=webtv-vp8-vorbis-webm
-EBS1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/912154806?profile=webtv-vp8-vorbis-webm
-EBS2,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1468407208?profile=webtv-vp8-vorbis-webm
-EBSe,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/528941414?profile=webtv-vp8-vorbis-webm
-EBSi,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1187601647?profile=webtv-vp8-vorbis-webm
-Edge TV 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/665099768?profile=webtv-vp8-vorbis-webm
-E-Like,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1583277421?profile=webtv-vp8-vorbis-webm
-ENA Drama,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/508592016?profile=webtv-vp8-vorbis-webm
-ENA Play,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/331319759?profile=webtv-vp8-vorbis-webm
-ENA Sports,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1578550757?profile=webtv-vp8-vorbis-webm
-ENA Story,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/580543957?profile=webtv-vp8-vorbis-webm
-ENA1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1352325748?profile=webtv-vp8-vorbis-webm
-Event TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/748813503?profile=webtv-vp8-vorbis-webm
-Fun TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/215186864?profile=webtv-vp8-vorbis-webm
-Gongyoung Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1297273575?profile=webtv-vp8-vorbis-webm
-GS My Shop,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1867020853?profile=webtv-vp8-vorbis-webm
-GSSHOP,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1470580184?profile=webtv-vp8-vorbis-webm
-Home & Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1917575019?profile=webtv-vp8-vorbis-webm
-Hyundai Home Shopping M,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/490750467?profile=webtv-vp8-vorbis-webm
-Hyundai Home Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/774345107?profile=webtv-vp8-vorbis-webm
-i-net,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/2106514029?profile=webtv-vp8-vorbis-webm
-JTBC 2,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/787461171?profile=webtv-vp8-vorbis-webm
-JTBC 4,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/765156424?profile=webtv-vp8-vorbis-webm
-JTBC Golf 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/458621756?profile=webtv-vp8-vorbis-webm
-JTBC1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/18291851?profile=webtv-vp8-vorbis-webm
-K Star 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/388028966?profile=webtv-vp8-vorbis-webm
-K TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1091111966?profile=webtv-vp8-vorbis-webm
-KBS Drama,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1671766424?profile=webtv-vp8-vorbis-webm
-KBS JOY,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/624623182?profile=webtv-vp8-vorbis-webm
-KBS Sports 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/327973165?profile=webtv-vp8-vorbis-webm
-KBS1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1856221581?profile=webtv-vp8-vorbis-webm
-KBS2,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/291701745?profile=webtv-vp8-vorbis-webm
-KBSDRM,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/747614838?profile=webtv-vp8-vorbis-webm
-Korea Economic TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/731374091?profile=webtv-vp8-vorbis-webm
-Korea Open University,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1100733764?profile=webtv-vp8-vorbis-webm
-KT Alpha Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/288477411?profile=webtv-vp8-vorbis-webm
-Lotte Home Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1389093803?profile=webtv-vp8-vorbis-webm
-Lotte ONETV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1137426089?profile=webtv-vp8-vorbis-webm
-M Plex,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/298449464?profile=webtv-vp8-vorbis-webm
-MBC Drama,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/848170378?profile=webtv-vp8-vorbis-webm
-MBC DTV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1730573233?profile=webtv-vp8-vorbis-webm
-MBC Every1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/2117737966?profile=webtv-vp8-vorbis-webm
-MBC Sports+,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/850476650?profile=webtv-vp8-vorbis-webm
-MBCM,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/448578156?profile=webtv-vp8-vorbis-webm
-MBCON,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1901916748?profile=webtv-vp8-vorbis-webm
-MBN Plus,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1671575480?profile=webtv-vp8-vorbis-webm
-MBN1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1161447902?profile=webtv-vp8-vorbis-webm
-Mnet,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1153187676?profile=webtv-vp8-vorbis-webm
-Money Today Broadcasting,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/475734458?profile=webtv-vp8-vorbis-webm
-National Assembly TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1675722975?profile=webtv-vp8-vorbis-webm
-NS Home Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/822331526?profile=webtv-vp8-vorbis-webm
-NS Shop+,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1674691354?profile=webtv-vp8-vorbis-webm
-OCN Movie 2,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/816147130?profile=webtv-vp8-vorbis-webm
-OCN Movie,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1609233273?profile=webtv-vp8-vorbis-webm
-OCN1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/129584407?profile=webtv-vp8-vorbis-webm
-SBS Biz,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1670913787?profile=webtv-vp8-vorbis-webm
-SBS Golf,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1241197154?profile=webtv-vp8-vorbis-webm
-SBS PULS,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/2142679740?profile=webtv-vp8-vorbis-webm
-SBS Sports,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1779793680?profile=webtv-vp8-vorbis-webm
-SBS,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1743700796?profile=webtv-vp8-vorbis-webm
-Screen 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/2101036275?profile=webtv-vp8-vorbis-webm
-Shinsegae Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1754638227?profile=webtv-vp8-vorbis-webm
-Shopping NT,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1808892978?profile=webtv-vp8-vorbis-webm
-SK Store,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/428420997?profile=webtv-vp8-vorbis-webm
-Small Business Market 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1166420754?profile=webtv-vp8-vorbis-webm
-Smile TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1077642278?profile=webtv-vp8-vorbis-webm
-SPO TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/901635006?profile=webtv-vp8-vorbis-webm
-STB Sangsaeng Broadcasting,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/852502481?profile=webtv-vp8-vorbis-webm
-TV Asia+,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1525994700?profile=webtv-vp8-vorbis-webm
-TV Chosun 1,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/62980734?profile=webtv-vp8-vorbis-webm
-TV Chosun 2,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/293979061?profile=webtv-vp8-vorbis-webm
-TVA+,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1633477820?profile=webtv-vp8-vorbis-webm
-TVN Drama,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/635561632?profile=webtv-vp8-vorbis-webm
-TVN Show,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1605418758?profile=webtv-vp8-vorbis-webm
-TVN Sports,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/153271204?profile=webtv-vp8-vorbis-webm
-TVN Story,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1627344109?profile=webtv-vp8-vorbis-webm
-TVN,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1089424824?profile=webtv-vp8-vorbis-webm
-W Shopping,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/837231608?profile=webtv-vp8-vorbis-webm
-Welfare TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/309777138?profile=webtv-vp8-vorbis-webm
-Witty V,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1038219528?profile=webtv-vp8-vorbis-webm
-XONE,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/109732674?profile=webtv-vp8-vorbis-webm
-Yonhap News TV,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/970304232?profile=webtv-vp8-vorbis-webm
-YTN HD,http://bt.sc1970.xyz:9099/124.80.55.164:9981/stream/channelid/1227045689?profile=webtv-vp8-vorbis-webm
