@@ -21,7 +21,7 @@
         {
             "name": "咪咕直播2",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "http://fn.gcl.de5.net:5908/gsh950428",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -308,7 +308,12 @@
             "url": "http://ok.zoho.to//i/?T=42",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+         {
+            "name": "botwey",
+            "type": 0,
+            "url": "http://go0.mygamesonline.org//i/?T=botwey",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
         {
@@ -503,12 +508,11 @@
             "ext": {}
         },
         {
-            "name": "BeeSport直播",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_beesport.py",
-            "ext": {},
+            "name": "BeeSport",
+            "url": "http://iptv.cqshushu.com/beesport.php?token=16105155be10c5ba2b223128da88bcee",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
             "header": {
-                "Referer": "https://p.m82xg4z0cdbz7.com/"
+                "Referer": "https://new-player.lioncdn.net/"
             }
         },
 
