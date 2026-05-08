@@ -21,7 +21,7 @@
         {
             "name": "咪咕直播2",
             "type": 0,
-            "url": "http://fn.gcl.de5.net:5908/gsh950428",
+            "url": "http://115.190.247.176:1111",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
