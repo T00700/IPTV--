@@ -999,45 +999,32 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 中视,rtmp://f13h.mine.nu/sat/tv091
-国际频道,#genre#
-ABC AUSTRALIA,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-AL JAZEERA,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-AL JAZEERA,http://live-hls-web-aje.getaj.net/AJE/02.m3u8
-BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+外语频道,#genre#
+BBC NEWS,http://104.250.145.6/livehttpplay?channel_id=16531
+BLOOMBERG HD,http://104.250.145.6/livehttpplay?channel_id=16530
 BLOOMBERG ASIA,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 BLOOMBERG US,http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-CBN NEWS,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 CBS NEWS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNN,https://stream1.freetv.fun/cnn-1.m3u8
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 GLOBAL NEWS,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
-NEWSMAX,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+NEWSMAX2,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NEWSMAX2,https://newsmax-samsungus.amagi.tv/playlist.m3u8
 TYT,https://tyt-samsungus.amagi.tv/playlist.m3u8
-TRT WORLD,https://tv-trtworld.live.trt.com.tr/master.m3u8
-TRT WORLD,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-NHK WORLD JAPAN,http://61.221.215.25:8800/hls/51/index.m3u8
-NHK WORLD JAPAN,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-NHK WORLD 华语,https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/zt/playlist.m3u8
-NTV NEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-ARIRANG,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT ARABIC,https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 RT DEUTSCH,https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
 RT ESPANOL,https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 RT FRANCH,https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
 RTD (ENGLISH),https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-RTD (RUSSIAN),https://hls.rt.com/hls/rtdru.m3u8
 ИЗВЕСТИЯ,https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 ИЗВЕСТИЯ,https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 РБК,http://92.50.128.180/utv/1358/index.m3u8
-CGTN英语,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
-CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
@@ -1595,80 +1582,28 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 衢州综合,http://47.110.243.216:7088/udp/233.50.202.11:5140
 温州综合,http://47.110.243.216:7088/udp/233.50.201.87:5140
 音乐频道,#genre#
+TV HD,http://104.250.145.6/livehttpplay?channel_id=16504
 Первый Музыкальный,http://hz1.teleport.cc/HLS/HD.m3u8
-Первый Музыкальный,http://rtmp.one.by:1200/
-Первый Музыкальный,http://rtmp.one.by:1300/
-Первый Музыкальный,http://rtmp.one.by:2200
-Первый Музыкальный,http://rtmp.one.by:2300/
-MovieMusic,https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
 AlbKanale Music TV,https://albportal.net/albkanalemusic.m3u8
 Cadena Elite,https://cloudvideo.servers10.com:8081/8004/index.m3u8
-Cantina TV,https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
-Clubbing TV,https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
 Company TV,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 Euro Indie Music Chart TV,http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-FOX SOUL,https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 Global TV,https://stmv.video.gmpro.top/global/global/playlist.m3u8
 KRONE HIT,https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-KRONE HIT,https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-Pluto TV Qello Concerts,https://siloh.pluto.tv/lilo/production/Qello/ES/master.m3u8
-Pluto TV Qwest TV Jazz & Beyond,https://siloh.pluto.tv/lilo/production/QwestJazz/master.m3u8
 Radio Contact,https://contact-live-hls.akamaized.net/hls/live/2038650/CONTACT-Live-HLS/master.m3u8
-Radio Javan TV,http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
 Radiom20,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 Retro,http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-RU.TV,https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
-Sexy K-Pop,https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 Trace Urban HD,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 TVM3,https://edge19.vedge.infomaniak.com/livecast/tvm3/chunklist_w296076437.m3u8
 TVM3,https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 V2Beat,http://de1se01.v2beat.live:80/chunks.m3u8
-XITE,https://xite-samsung-de.amagi.tv/playlist.m3u8
-Zerouno TV,http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-М2,http://live.m2.tv/hls3/720/stream.m3u8
 Страна FM,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-ТНТ Music,http://83.222.205.65:8080/tntmusic/index.m3u8
-Stingray Alternative,https://stirr.ott-channels.stingray.com/102/master.m3u8
-Stingray Classic Rock,https://stirr.ott-channels.stingray.com/101/master.m3u8
-Stingray Exitos Del Momento,https://stirr.ott-channels.stingray.com/190/master.m3u8
-Stingray Flashback 70S,https://stirr.ott-channels.stingray.com/115/master.m3u8
-Stingray Greatest Hits,https://stirr.ott-channels.stingray.com/155/master.m3u8
-Stingray Hip-Hop/R&B,https://stirr.ott-channels.stingray.com/133/master.m3u8
-Stingray Hit List,https://stirr.ott-channels.stingray.com/107/master.m3u8
-Stingray Hot Country,https://stirr.ott-channels.stingray.com/108/master.m3u8
-Stingray Pop Adult,https://stirr.ott-channels.stingray.com/104/master.m3u8
-Stingray Remember The 80S,https://stirr.ott-channels.stingray.com/128/master.m3u8
-Stingray Soul Storm STORM,https://stirr.ott-channels.stingray.com/134/master.m3u8
-MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-MTV Spankin' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
-MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 Ocko Expres,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 Ocko Gold,http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 Ocko TV,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-CHANNEL V,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
-时装频道,#genre#
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-A3 Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-Fashion TV England,https://fashiontv-fashiontv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV Europe,https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-Fashion TV Germany,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV Italy,https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
-Fashion TV Pluto,https://siloh.pluto.tv/lilo/production/FashionTV/master.m3u8
-Fashion TV Spain,https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-FTV Magzine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-Luxury World,http://nano.teleservice.su:8080/hls/luxury.m3u8
-UNIVERSE TV,http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
-World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
 宗教频道,#genre#
-大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-佛陀教育,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-佛陀教育,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-佛陀教育,https://live.jingzong.org/live/hd/playlist.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
