@@ -37,9 +37,10 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "SMARTV",
+            "name": "SIMON-SMT",
             "type": 0,
-            "url": "http://dbmlasvgas.sylu.cc:8080/smt.php",
+            "url": "http://simon-iptv.top/luotuo/xmcx.php",
+            "ua": "RETURNTR",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -312,6 +313,12 @@
             "name": "botwey",
             "type": 0,
             "url": "http://go0.mygamesonline.org//i/?T=botwey",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "九点半",
+            "type": 0,
+            "url": "http://ok.zoho.to//i/?T=九点半",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
