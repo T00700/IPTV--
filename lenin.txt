@@ -849,7 +849,7 @@ CCTV央视台球,http://iptv.kakacq.com:8888/rtsp/118.212.169.134/PLTV/88888888/
 江苏卫视,http://home.wscxy.fun:30100/udp/233.18.204.85:5140
 江西卫视,http://home.wscxy.fun:30100/udp/233.18.204.95:5140
 辽宁卫视,http://home.wscxy.fun:30100/udp/233.18.204.96:5140
-旅游卫视,http://home.wscxy.fun:30100/udp/233.18.204.102:5140
+海南卫视,http://home.wscxy.fun:30100/udp/233.18.204.102:5140
 内蒙古卫视,http://home.wscxy.fun:30100/udp/233.18.204.217:5140
 宁夏卫视,http://home.wscxy.fun:30100/udp/233.18.204.230:5140
 青海卫视,http://home.wscxy.fun:30100/udp/233.18.204.112:5140
