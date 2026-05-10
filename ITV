@@ -94,6 +94,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "浙江rtp2http4",
+            "type": 0,
+            "url": "http://218.73.50.242:4343/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "广东rtp2http",
             "type": 0,
             "url": "http://156.233.226.200:10086/playlist.m3u",
@@ -136,6 +142,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "上海rtp2http4",
+            "type": 0,
+            "url": "http://218.1.221.13:9999/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "江苏rtp2http",
             "type": 0,
             "url": "http://tv.miaoco.me/playlist.m3u",
@@ -145,6 +157,12 @@
             "name": "江苏rtp2http2",
             "type": 0,
             "url": "http://180.105.201.175:9981/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "江苏rtp2http3",
+            "type": 0,
+            "url": "http://116.147.68.146:2000/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -169,6 +187,18 @@
             "name": "山西rtp2http",
             "type": 0,
             "url": "http://111.53.207.132:9898/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "山西rtp2http2",
+            "type": 0,
+            "url": "http://home.yyhy.me:1234/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "山西rtp2http3",
+            "type": 0,
+            "url": "http://183.189.250.56:1234/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
