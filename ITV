@@ -37,14 +37,7 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "SIMON-SMT",
-            "type": 0,
-            "url": "http://simon-iptv.top/luotuo/xmcx.php",
-            "ua": "RETURNTR",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "4GTV",
+            "name": "4GTV+LITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
