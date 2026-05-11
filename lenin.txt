@@ -1030,10 +1030,10 @@ VIUTV6,http://122.100.242.52:12179/stream/channelid/750848819?profile=pass
 澳视澳门,http://122.100.242.52:12179/stream/channelid/962050687?profile=pass
 澳视葡文,http://122.100.242.52:12179/stream/channelid/1252295614?profile=pass
 台湾频道,#genre#
-TVBS,https://550e8400-e29b.kylintv.tv/live/tvbshd_iphone.m3u8
-中天新闻,https://550e8400-e29b.kylintv.tv/live/cti_iphone.m3u8
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8
 中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
+TVBS,https://550e8400-e29b.kylintv.tv/live/tvbshd_iphone.m3u8
+中天新闻,https://550e8400-e29b.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
@@ -1094,19 +1094,27 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 中视,rtmp://f13h.mine.nu/sat/tv091
 外语频道,#genre#
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 BBC NEWS,http://104.250.145.6/livehttpplay?channel_id=16531
+BBC NEWS,http://nor2live.win:80/livehttpplay?channel_id=16531
 BLOOMBERG HD,http://104.250.145.6/livehttpplay?channel_id=16530
+BLOOMBERG HD,http://nor2live.win:80/livehttpplay?channel_id=16530
 BLOOMBERG ASIA,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 BLOOMBERG US,http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 CBS NEWS,https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CNBC HD,http://nor1live.win:80/livehttpplay?channel_id=23115
+CNBC WORLD HD,http://nor1live.win:80/livehttpplay?channel_id=23117
 FOX NEWS,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 GLOBAL NEWS,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+MSNBC HD,http://nor1live.win:80/livehttpplay?channel_id=23116
+NEWSMAX HD,http://104.250.145.6/livehttpplay?channel_id=16501
+NEWSMAX HD,http://nor2live.win:80/livehttpplay?channel_id=16501
 NEWSMAX2,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NEWSMAX2,https://newsmax-samsungus.amagi.tv/playlist.m3u8
+NEWSNATION HD,http://nor1live.win:80/livehttpplay?channel_id=23102
 TYT,https://tyt-samsungus.amagi.tv/playlist.m3u8
-ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 RT ARABIC,https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
 RT DEUTSCH,https://rt-ger.rttv.com/live/rtdeutsch/playlist.m3u8
@@ -1658,6 +1666,7 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 温州综合,http://47.110.243.216:7088/udp/233.50.201.87:5140
 音乐频道,#genre#
 TV HD,http://104.250.145.6/livehttpplay?channel_id=16504
+MTV LIVE HD,http://nor1live.win:80/livehttpplay?channel_id=23081
 Первый Музыкальный,http://hz1.teleport.cc/HLS/HD.m3u8
 AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 音乐欣赏,http://61.221.215.25:8800/hls/49/index.m3u8
@@ -1788,8 +1797,10 @@ SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
 Tnt Sports1,http://iptv.4666888.xyz/iptv2A.php?id=3
 智林体育,http://iptv.4666888.xyz/iptv2A.php?id=5
 其它频道,#genre#
+KCTV朝鲜中央电视台,http://bt.sc1970.xyz:9099/tv.intchoson.com/kctv/main_stream.m3u8
 经典短剧轮播,https://down-hls.qxiu.com/live/455246/index.m3u8
 经典电影轮播,https://down-hls.qxiu.com/live/453135/index.m3u8
 KIX,http://bt.sc1970.xyz:9099/45.198.32.149:9003/play/KIX/index.m3u8
 天映经典,http://bt.sc1970.xyz:9099/45.198.32.161:8978/play/ccm/index.m3u8
-天映频道,http://bt.sc1970.xyz:9099/45.198.32.161:8978/play/CELESTIALMOVIES/index.m3u8 
+天映频道,http://bt.sc1970.xyz:9099/45.198.32.161:8978/play/CELESTIALMOVIES/index.m3u8
+MILITAR HISTORY,http://104.250.145.6/livehttpplay?channel_id=23213
