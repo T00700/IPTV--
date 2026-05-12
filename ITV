@@ -367,6 +367,12 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "Hochu TV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/HOCHUTV.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
             "name": "小香",
             "type": 0,
             "url": "http://ok.zoho.to//i/?T=42",
@@ -586,17 +592,11 @@
 
 
         {
-            "name": "LITV",
-            "type": 3,
-            "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
-            "ext": {}
-        },
-        {
-            "name": "Hochu TV",
+            "name": "劲歌金曲",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/HOCHUTV.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/songs.txt"
         },
+
 
 
         {
