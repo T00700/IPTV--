@@ -7,14 +7,14 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "国际IPTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/mylist.m3u"
-        },
-        {
             "name": "国际ILOOK",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/ilook.m3u"
+        },
+        {
+            "name": "国际IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/mylist.m3u"
         },
         {
             "name": "移动ITV",
@@ -384,12 +384,7 @@
             "url": "http://ok.zoho.to//i/?T=九点半",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "牛X电视",
-            "type": 0,
-            "url": "http://bo.zoho.to/?o=牛X电视",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
 
         {
@@ -553,24 +548,6 @@
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/yoozb.py",
             "ext": {}
-        },
-        {
-            "name": "88KQ体育直播",
-            "type": 0,
-            "url": "http://php.cqshushu.ggff.net/kqt.php?公众号【医工学习日志】",
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "52快直播体育",
-            "type": 0,
-            "url": "http://xg.52sw.top/play/kzb/ty.php",
-            "ua": "okhttp/3.15"
-        },
-        {
-            "name": "咪咕赛事",
-            "type": 0,
-            "url": "https://www.freetv.top/mgevent.m3u",
-            "ua": "judy/5.2.1"
         },
         {
             "name": "海星体育直播",
