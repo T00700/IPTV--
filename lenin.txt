@@ -1865,7 +1865,7 @@ TVBS精采,https://iptv.852851.xyz/ch/bb3281a447bf2b92e8649856a3cf47e4/master.m3
 亚洲旅游,https://iptv.852851.xyz/ch/22629042ba4aeac6d099f950272b06fe/master.m3u8
 中视,https://iptv.852851.xyz/ch/177f5903c7e4ae806ba85f66cb9a47e9/master.m3u8
 猪哥亮歌厅秀,https://iptv.852851.xyz/ch/14db6078bae8ec9eeb8ca5aab68b4b39/master.m3u8
-推流4K,#genre#
+推流4K直播,#genre#
 Bloomberg Television 4K,https://iptv.852851.xyz/ch/08faf53432bbf172d66658f7d6bb7eed/master.m3u8
 INULTRA 4K NL,https://iptv.852851.xyz/ch/5597cc687e409d9888114aa1090f4a8d/master.m3u8
 Love Nature 4K CA,https://iptv.852851.xyz/ch/4cc386732671010a4190b74b0eb96031/master.m3u8
@@ -1881,7 +1881,7 @@ Stingray Festival 4K CA,https://iptv.852851.xyz/ch/1d4986dd6c77a0981c8b3320e23f3
 Stingray NOW 4K CA,https://iptv.852851.xyz/ch/8156776cca812d2161e96c067e59cf58/master.m3u8
 TNT Sports Ultimate 4K UK,https://iptv.852851.xyz/ch/7ef3550983afc7a57615b4960a5f1e04/master.m3u8
 TSN 4K CA,https://iptv.852851.xyz/ch/8ff763fd35d875090fd9ecd3787d3224/master.m3u8
-推流欧美体育,#genre#
+推流体育1,#genre#
 ACC Digital Network,https://iptv.852851.xyz/ch/d3f2800feca4e468a70c7464615b1a78/master.m3u8
 Altitude Sports,https://iptv.852851.xyz/ch/78211070648680044214a9af60354ca0/master.m3u8
 beIN SPORTS XTRA,https://iptv.852851.xyz/ch/d11f96193790e7aac85cdd59e30b2382/master.m3u8
@@ -1992,7 +1992,7 @@ Ziggo Sport 1 NL,https://iptv.852851.xyz/ch/16bd369ce0db093e8280fce34e360238/mas
 Ziggo Sport 2 NL,https://iptv.852851.xyz/ch/0723791564047695b0530db33ba7923b/master.m3u8
 Ziggo Sport 3 NL,https://iptv.852851.xyz/ch/097d3d12a6974384feebc1c181187996/master.m3u8
 Ziggo Sport 4 NL,https://iptv.852851.xyz/ch/c7afa80476b9893417a11c4b4615673d/master.m3u8
-推流Hub+beIN体育,#genre#
+推流体育2,#genre#
 Hub Premier 1 HD,https://iptv.852851.xyz/ch/da42c0f533aa38f73db22add60558883/master.m3u8
 Hub Premier 2 HD,https://iptv.852851.xyz/ch/b4259bd9ec0d1ef0ce94273192e7f166/master.m3u8
 Hub Premier 3 HD,https://iptv.852851.xyz/ch/330e4486b7f750077b8c59a49273f7b5/master.m3u8
