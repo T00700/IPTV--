@@ -49,7 +49,7 @@
         {
             "name": "4GTV+LITV",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/LITV.txt",
+            "url": "http://64.83.16.48:2027/channel?type=txt&token=L9PdiAgC1t7qZuMM5E9qzomc8h12jJr1dtjr6ExnD9sPcyb6KcbmdO4dI5Trb3wo&proxy=true",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -80,7 +80,7 @@
         {
             "name": "自动组播2",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.giteeusercontent.com/g1753462733/zb/raw/main/IPTV.txt",
+            "url": "https://gitee.com/g1753462733/zb/raw/main/IPTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
