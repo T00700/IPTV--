@@ -7,6 +7,16 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
+            "name": "国际IPTV",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/mylist.m3u"
+        },
+        {
+            "name": "国际ILOOK",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/ilook.m3u"
+        },
+        {
             "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
@@ -62,9 +72,15 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "组播IPTV",
+            "name": "自动组播1",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "自动组播2",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.giteeusercontent.com/g1753462733/zb/raw/main/IPTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
 
@@ -90,6 +106,18 @@
             "name": "浙江rtp2http4",
             "type": 0,
             "url": "http://218.73.50.242:4343/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "浙江rtp2http5",
+            "type": 0,
+            "url": "http://218.71.56.210:4022/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "浙江rtp2http6",
+            "type": 0,
+            "url": "http://115.194.0.148:9999/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
@@ -212,7 +240,12 @@
             "url": "http://222.137.251.244:8888/playlist.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-
+        {
+            "name": "河北rtp2http",
+            "type": 0,
+            "url": "http://110.251.231.3:5140/playlist.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
 
@@ -351,6 +384,12 @@
             "url": "http://ok.zoho.to//i/?T=九点半",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
+        {
+            "name": "牛X电视",
+            "type": 0,
+            "url": "http://bo.zoho.to/?o=牛X电视",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
 
 
         {
@@ -418,12 +457,7 @@
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
-        {
-            "name": "WEBTV港台",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/web2.txt",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
         {
             "name": "345IPTV",
@@ -555,24 +589,12 @@
 
 
 
-        {
-            "name": "国际IPTV",
-            "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/mylist.m3u",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
+
 
 
         {
-            "name": "PerfectTV - MPD",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/PerfecttvFree3.m3u",
-            "type": 0,
-            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
-            "playerType": 2
-        },
-        {
-            "name": "SimpleTV - MPD",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/SimpleTV.m3u",
+            "name": "HKTV - MPD",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/jjmytv.txt",
             "type": 0,
             "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
             "playerType": 2
@@ -584,29 +606,16 @@
             "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
             "playerType": 2
         },
-        {
-            "name": "UnifiTV - MPD",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/Unifi.m3u",
-            "type": 0,
-            "ua": "Mozilla/5.0 (Linux; Android 15; SM-S931B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36",
-            "playerType": 2
-        },
+
 
         {
-            "name": "港台TV汇[云梯]",
-            "type": 0,
-            "url": "http://docker.livednow.dpdns.org/?type=m3u",
-            "ua": "judy/5.2.1",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
-            "name": "LITV[云梯]",
+            "name": "LITV",
             "type": 3,
             "api": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/live_litv.py",
             "ext": {}
         },
         {
-            "name": "Hochu TV[云梯]",
+            "name": "Hochu TV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/HOCHUTV.txt",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
@@ -622,13 +631,6 @@
             "header": {
                 "Referer": "https://www.kds.tw/"
             }
-        },
-        {
-            "name": "52OFIII[台梯]",
-            "type": 0,
-            "url": "file://tvbus/ofiii.m3u",
-            "ua": "okhttp/3.15",
-             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         }
     ],
     "hosts": [
@@ -636,7 +638,7 @@
     ],
     "rules": [
         {
-            "name": "ofiii[台梯]",
+            "name": "ofiii",
             "hosts": [
                 "www.ofiii.com"
             ],
