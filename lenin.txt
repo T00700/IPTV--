@@ -918,11 +918,8 @@ ZooMoo,https://iptv.852851.xyz/ch/0b411acd6886ed1598ae839a8895dd06/master.m3u8
 台湾频道,#genre#
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/13884e44-5dda-4fc9-9809-3aa05f166e51/playlist.m3u8
 中天新闻,http://dbmlasvgas.sylu.cc:8880/stream/fc083553-b5ac-4889-b44c-eeff668130c1/playlist.m3u8
+寰宇新闻,http://dbmlasvgas.sylu.cc:8880/stream/3f23c2b9-7738-4ccc-b9f4-e4f1ea672841/playlist.m3u8
 中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
-寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
-寰宇新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-longturn14
-寰宇新闻,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
-寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
 TVBS,https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
 TVBS新闻,https://iptv.852851.xyz/ch/34dfa3110b23be3964e6630ef747a71b/master.m3u8
 TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3u8
@@ -939,6 +936,10 @@ TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3
 华视新闻,https://iptv.852851.xyz/ch/aded50059a1800c43d8550835d5bffc7/master.m3u8
 华视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv052&token=https://t.me/GPT_858
 寰宇财经,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv158
+寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+寰宇新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-longturn14
+寰宇新闻,https://iptv.852851.xyz/ch/44f49d44835ef34acc0e2aacdbec1513/master.m3u8
+寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 寰宇新闻台湾,http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
 寰宇新闻台湾,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv156
 寰宇新闻台湾,https://iptv.852851.xyz/ch/c923b10e6ed936189a40933fbd841da9/master.m3u8
@@ -1178,7 +1179,7 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 中视,rtmp://f13h.mine.nu/sat/tv091
 TVBS,https://550e8400-e29b.kylintv.tv/live/tvbshd_iphone.m3u8
 中天新闻,https://550e8400-e29b.kylintv.tv/live/cti_iphone.m3u8
-TVBS,http://208.87.242.79/livehttpplay?channel_id=20085
+TVBS,http://208.87.201.148/livehttpplay?channel_id=20085
 外语频道,#genre#
 BLOOMBERG 4K,https://iptv.852851.xyz/ch/08faf53432bbf172d66658f7d6bb7eed/master.m3u8
 BLOOMBERG,http://104.250.145.6/livehttpplay?channel_id=16530
