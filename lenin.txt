@@ -1,8 +1,5 @@
 4K,#genre#
-FASHION 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 INULTRA 4K,https://iptv.852851.xyz/ch/5597cc687e409d9888114aa1090f4a8d/master.m3u8
-LOUPE 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 LOVE NATURE 4K,https://iptv.852851.xyz/ch/a859f84951d60ea32d52e414fe95bf4e/master.m3u8
 LOVE NATURE 4K,https://iptv.852851.xyz/ch/4cc386732671010a4190b74b0eb96031/master.m3u8
 北京卫视4K,http://124.116.170.138:8081/udp/239.111.205.51:5140
@@ -1842,7 +1839,7 @@ Ocko TV,http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 51卓越人生,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch51-2.m3u8
 60直播,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch60-2.m3u8
 72指南,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch72-2.m3u8
-风云港,#genre#
+风云港台,#genre#
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
