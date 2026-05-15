@@ -252,9 +252,15 @@
 
 
         {
-            "name": "JACKTV",
+            "name": "JACKTV1",
             "type": 0,
             "url": "https://php.946985.filegear-sg.me/jackTV.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "JACKTV2",
+            "type": 0,
+            "url": "https://php.946985.filegear-sg.me/test.m3u",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
