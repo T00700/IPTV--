@@ -2409,10 +2409,13 @@ beIN Sports 4 HD,https://iptv.852851.xyz/ch/914bdf0fd79c1d2244606b261a3cad5c/mas
 beIN Sports 5 HD,https://iptv.852851.xyz/ch/10e13715bab91e96840897bdb33ed0d0/master.m3u8
 
 SPORTS 3,#genre#
+ELTA体育1,https://test.946985.filegear-sg.me/proxy/c8f691869d37ef36
+HAMI体育1,https://test.946985.filegear-sg.me/proxy/aa02bf659c07a901
 卫视体育1,http://hao6688.3322.org:30066/stream/channelid/1930074243?ticket=a05e683ad825f3473c13263566be76e1b2efcb98&profile=pass
 卫视体育2,http://hao6688.3322.org:30066/stream/channelid/921123082?ticket=4c497968849ab6b212186eda1a319daae0a20c84&profile=pass
 NOW体育精选,https://test.946985.filegear-sg.me/proxy/9adf0b8d593300d0
 NOW体育精选,https://test.946985.filegear-sg.me/proxy/f3108ab57298125d
+NOW体育1 4K,https://mpd2hls.699898.xyz/ch/575064216da8b66b201e700324f3613e/master.m3u8
 NOW体育1 4K,https://iptv.852851.xyz/ch/66ad11c44eca88e44105038a9e199147/master.m3u8
 NOW体育1 4K,https://test.946985.filegear-sg.me/proxy/5ed27bcd436513bd
 NOW体育1 4K,https://test.946985.filegear-sg.me/proxy/7e4a6fd94d011e30
