@@ -1457,6 +1457,8 @@ NEWSMAX HD,http://nor2live.win:80/livehttpplay?channel_id=16501
 NEWSMAX2,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 NEWSMAX2,https://newsmax-samsungus.amagi.tv/playlist.m3u8
 NEWSNATION HD,http://nor1live.win:80/livehttpplay?channel_id=23102
+TRT WORLD,https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+NewsWorld,https://php.946985.filegear-sg.me/mytv265.php?id=NSWD
 NHK WORLD JAPAN,http://220.135.64.124:5050/4gtv-live168/index.m3u8?proxy=true
 ARIRANG,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 ARIRANG,https://test.946985.filegear-sg.me/proxy/a1695b639662b47c
@@ -2038,6 +2040,12 @@ WWE,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 衢州综合,http://47.110.243.216:7088/udp/233.50.202.11:5140
 温州综合,http://47.110.243.216:7088/udp/233.50.201.87:5140
 音乐频道,#genre#
+NOW 70s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW7
+NOW 80s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW8
+NOW ROCK,https://php.946985.filegear-sg.me/mytv265.php?id=NOWR
+NOW 90s00s,https://php.946985.filegear-sg.me/mytv265.php?id=NOW9
+Concerto,https://php.946985.filegear-sg.me/mytv265.php?id=CONC
+TRACE Urban,https://php.946985.filegear-sg.me/mytv265.php?id=TRUR
 德国Deluxe Music,https://test.946985.filegear-sg.me/proxy/a341324bc76a1184
 法国M6 音乐,https://test.946985.filegear-sg.me/proxy/803c517b325bfafc
 法国Mezzo Live,https://test.946985.filegear-sg.me/proxy/749755700e4ed9c6
