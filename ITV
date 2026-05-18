@@ -444,7 +444,7 @@
         },
         {
             "name": "AstroTV - MPD",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/AstroTV.m3u",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/AstroTV.txt",
             "type": 0,
             "ua": "AndroidBox Build/",
             "playerType": 2
