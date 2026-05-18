@@ -443,8 +443,8 @@
             "playerType": 2
         },
         {
-            "name": "马来AstroTV - MPD",
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/Bangla.m3u",
+            "name": "AstroTV - MPD",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/AstroTV.m3u",
             "type": 0,
             "ua": "AndroidBox Build/",
             "playerType": 2
