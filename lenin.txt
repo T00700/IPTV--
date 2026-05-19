@@ -1151,6 +1151,7 @@ ELTV生活英语,https://test.946985.filegear-sg.me/proxy/e4b733d6f622acd5
 FESTIVAL探索娱乐,http://220.135.64.124:5050/4gtv-live011/index.m3u8?proxy=true
 GINX Esports TV,https://test.946985.filegear-sg.me/proxy/25bcb8604b848db6
 Global Trekker,http://220.135.64.124:5050/4gtv-live112/index.m3u8?proxy=true
+History,http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
 HITS,http://220.135.64.124:5050/4gtv-live620/index.m3u8?proxy=true
 HITS,https://iptv.852851.xyz/ch/33cd3aa3235f1e08dc5b94bb3dde1bbb/master.m3u8
 INULTRA,http://220.135.64.124:5050/4gtv-live096/index.m3u8?proxy=true
@@ -1232,7 +1233,6 @@ TVBS精采,https://iptv.852851.xyz/ch/bb3281a447bf2b92e8649856a3cf47e4/master.m3
 靖洋戏剧,https://iptv.852851.xyz/ch/c6a9a10a88d2d16d79ff1731fa6634d1/master.m3u8
 靖洋戏剧,https://test.946985.filegear-sg.me/proxy/8f4b84e6279932ba
 客家电视,https://test.946985.filegear-sg.me/proxy/12b11283589e437c
-历史,http://220.135.64.124:5050/4gtv-live026/index.m3u8?proxy=true
 龙华电影,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang03
 龙华电影,https://test.946985.filegear-sg.me/proxy/1f21dea00a66a7e9
 龙华经典,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang21
