@@ -106,8 +106,11 @@ CCTV16 4K,http://hao6688.3322.org:30066/stream/channelid/1147168350?ticket=1faed
 深圳卫视4K,http://hao6688.3322.org:30066/stream/channelid/159257836?ticket=82c37c6cbd22cd385b0a5decc71df4deaa346943&profile=pass
 四川卫视4K,http://hao6688.3322.org:30066/stream/channelid/538305603?ticket=48cdbb7a2653e430084bf62130cad873bfb69ec7&profile=pass
 浙江卫视4K,http://hao6688.3322.org:30066/stream/channelid/1624000683?ticket=eb96c9b8f0008ce9de6064e86a5de4d3b2f69ec5&profile=pass
+CCTV16 4K,http://49.232.195.88:55667/cctv164k.m3u8
 
 CCTV,#genre#
+CCTV8K,http://49.232.195.88:55667/cctv8k.m3u8
+CCTV4K,http://49.232.195.88:55667/cctv4k.m3u8
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.204:5140
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.188:5140
 CCTV4K,http://124.116.170.138:8081/udp/239.111.205.40:5140
@@ -474,6 +477,8 @@ CCTV16,http://hao6688.3322.org:30066/stream/channelid/773660418?ticket=47645cd62
 CCTV17,http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea18712ab93721ac480be6aa1448dcb5dbcc&profile=pass
 CCTV兵器科技,http://hao6688.3322.org:30066/stream/channelid/438074183?ticket=44fcc7bdc9d088a2a012504a3009dc538d089730&profile=pass
 CCTV女性时尚,http://hao6688.3322.org:30066/stream/channelid/743000278?ticket=e9caf6ca5bd6497cc5c7654fa922f9166a727868&profile=pass
+CCTV5,http://49.232.195.88:55667/cctv5.m3u8
+
 大陆卫视,#genre#
 安徽卫视,http://220.176.219.22:4376/udp/239.252.220.83:5140
 北京卫视,http://220.176.219.22:4376/udp/239.252.219.206:5140
@@ -1027,20 +1032,20 @@ VIUTV6,http://122.100.242.52:12179/stream/channelid/750848819?profile=pass
 澳视澳门,http://122.100.242.52:12179/stream/channelid/962050687?profile=pass
 澳视葡文,http://122.100.242.52:12179/stream/channelid/1252295614?profile=pass
 台湾频道,#genre#
+History,http://dbmlasvgas.sylu.cc:8880/stream/c76f2a04-f804-47ab-b555-1bc5516c4bfa/playlist.m3u8
+麦哲伦,http://dbmlasvgas.sylu.cc:8880/stream/fd2db9e3-a596-4a98-ab1b-bc6851e78c52/playlist.m3u8
 TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8
 寰宇新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-longturn14
 寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 中天新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
 中天新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
-History,http://dbmlasvgas.sylu.cc:8880/stream/c76f2a04-f804-47ab-b555-1bc5516c4bfa/playlist.m3u8
-麦哲伦,http://dbmlasvgas.sylu.cc:8880/stream/fd2db9e3-a596-4a98-ab1b-bc6851e78c52/playlist.m3u8
 寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 TVBS NEWS,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 TVBS,https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8
 中天新闻,https://3ea9e6-31f5e6.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
-中天亚洲,http://122.100.242.52:12179/stream/channelid/1097824991?profile=pass
 TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3u8
+中天亚洲,http://122.100.242.52:12179/stream/channelid/1097824991?profile=pass
 
 东森新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv152&token=https://t.me/GPT_858
 东森财经新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv153&token=https://t.me/GPT_858
@@ -1059,6 +1064,17 @@ TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
 第1商业,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv104
 倪珍播新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=nnews-zh
+SBN全球财经,http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
+东森财经新闻,http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
+东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
+华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
+寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
+寰宇新闻台湾,http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
+镜新闻,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
+民视新闻,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
+三立新闻,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
+中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
+中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
 
 AMC电影,http://220.135.64.124:5050/4gtv-4gtv017/index.m3u8?proxy=true
 AXN,http://hao6688.3322.org:30066/stream/channelid/843456280?ticket=3b36e3d97b41957376702ef15837c5d6961ed8d6&profile=pass
@@ -1085,26 +1101,24 @@ Lifetime,http://220.135.64.124:5050/4gtv-live029/index.m3u8?proxy=true
 LiveABC互动英语,http://220.135.64.124:5050/4gtv-live030/index.m3u8?proxy=true
 Love Nature,http://220.135.64.124:5050/4gtv-live208/index.m3u8?proxy=true
 LUXE TV,http://220.135.64.124:5050/4gtv-live121/index.m3u8?proxy=true
-麦哲伦,http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
 Mezzo Live HD,http://220.135.64.124:5050/4gtv-4gtv083/index.m3u8?proxy=true
 Mezzo Live HD,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv083&token=https://t.me/GPT_858
 MOMO亲子,http://220.135.64.124:5050/4gtv-live107/index.m3u8?proxy=true
 MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 My Cinema Europe,http://220.135.64.124:5050/litv-ftv10/index.m3u8?proxy=true
 My Cinema Europe,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv10&token=https://t.me/GPT_858
+Nick Jr.,http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
 Nickelodeon,http://220.135.64.124:5050/4gtv-live105/index.m3u8?proxy=true
-NickJr.,http://220.135.64.124:5050/4gtv-live032/index.m3u8?proxy=true
 Pet Club TV,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv110&token=https://t.me/GPT_858
 ROCK Action,http://220.135.64.124:5050/4gtv-live138/index.m3u8?proxy=true
 ROCK Entertainment,http://220.135.64.124:5050/4gtv-live080/index.m3u8?proxy=true
-SBN全球财经,http://220.135.64.124:5050/4gtv-live060/index.m3u8?proxy=true
 SMART知识,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang19
 TRACE Sport Stars,http://220.135.64.124:5050/4gtv-4gtv077/index.m3u8?proxy=true
 TRACE Sport Stars,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv077&token=https://t.me/GPT_858
 TRACE Urban,http://220.135.64.124:5050/4gtv-4gtv082/index.m3u8?proxy=true
 TRACE Urban,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv082&token=https://t.me/GPT_858
-TV5 MONDE,http://hao6688.3322.org:30066/stream/channelid/1476756624?ticket=699b0515b3bc79b861ea2ee99c56a43c8dae31e5&profile=pass
 TV5 MONDE STYLE,http://220.135.64.124:5050/4gtv-live122/index.m3u8?proxy=true
+TV5 MONDE,http://hao6688.3322.org:30066/stream/channelid/1476756624?ticket=699b0515b3bc79b861ea2ee99c56a43c8dae31e5&profile=pass
 TVBS欢乐,http://220.135.64.124:5050/4gtv-4gtv068/index.m3u8?proxy=true
 TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 爱尔达宠物运动,http://220.135.64.124:5050/4gtv-4gtv070/index.m3u8?proxy=true
@@ -1122,9 +1136,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 达文西,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv018&token=https://t.me/GPT_858
 大爱,http://220.135.64.124:5050/4gtv-live007/index.m3u8?proxy=true
 大爱2,http://220.135.64.124:5050/4gtv-live106/index.m3u8?proxy=true
-东森财经新闻,http://220.135.64.124:5050/4gtv-4gtv153/index.m3u8?proxy=true
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-东森新闻,http://220.135.64.124:5050/4gtv-4gtv152/index.m3u8?proxy=true
 公视戏剧,http://220.135.64.124:5050/4gtv-4gtv042/index.m3u8?proxy=true
 公视戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv042&token=https://t.me/GPT_858
 滚动力Rollor,http://220.135.64.124:5050/4gtv-live012/index.m3u8?proxy=true
@@ -1141,9 +1153,6 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 华视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv041
 华视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv041&token=https://t.me/GPT_858
 华视,rtmp://f13h.mine.nu/sat/tv111
-华视新闻,http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true
-寰宇新闻,http://220.135.64.124:5050/litv-longturn14/index.m3u8?proxy=true
-寰宇新闻台湾,http://220.135.64.124:5050/4gtv-4gtv156/index.m3u8?proxy=true
 金光布袋戏,http://220.135.64.124:5050/4gtv-live144/index.m3u8?proxy=true
 经典电影,http://220.135.64.124:5050/4gtv-live021/index.m3u8?proxy=true
 经典卡通,http://220.135.64.124:5050/4gtv-live022/index.m3u8?proxy=true
@@ -1172,7 +1181,6 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 靖洋卡通,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv057&token=https://t.me/GPT_858
 靖洋戏剧,http://220.135.64.124:5050/4gtv-4gtv045/index.m3u8?proxy=true
 靖洋戏剧,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv045&token=https://t.me/GPT_858
-镜新闻,http://220.135.64.124:5050/4gtv-4gtv075/index.m3u8?proxy=true
 客家电视,http://220.135.64.124:5050/4gtv-4gtv043/index.m3u8?proxy=true
 客家电视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv043&token=https://t.me/GPT_858
 龙华电影,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang03
@@ -1182,6 +1190,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 龙华日韩,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang11
 龙华戏剧,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang18
 龙华洋片,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-xinchuang02
+麦哲伦,http://220.135.64.124:5050/4gtv-live123/index.m3u8?proxy=true
 民视,http://220.135.64.124:5050/4gtv-4gtv002/index.m3u8?proxy=true
 民视,rtmp://f13h.mine.nu/sat/tv051
 民视第一,http://220.135.64.124:5050/4gtv-4gtv003/index.m3u8?proxy=true
@@ -1190,13 +1199,11 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 民视旅游,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv07&token=https://t.me/GPT_858
 民视台湾,http://220.135.64.124:5050/4gtv-4gtv001/index.m3u8?proxy=true
 民视台湾,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv001&token=https://t.me/GPT_858
-民视新闻,http://220.135.64.124:5050/litv-ftv13/index.m3u8?proxy=true
 民视影剧,http://220.135.64.124:5050/litv-ftv09/index.m3u8?proxy=true
 民视影剧,https://litv.tzh911.qzz.io/litv.php?id=litv-ftv09&token=https://t.me/GPT_858
 民视综艺,http://220.135.64.124:5050/4gtv-4gtv004/index.m3u8?proxy=true
 民视综艺,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv004&token=https://t.me/GPT_858
 人间卫视,http://220.135.64.124:5050/4gtv-live008/index.m3u8?proxy=true
-三立新闻,http://220.135.64.124:5050/4gtv-live089/index.m3u8?proxy=true
 三立综合,http://220.135.64.124:5050/4gtv-live207/index.m3u8?proxy=true
 时尚运动X,http://220.135.64.124:5050/4gtv-4gtv014/index.m3u8?proxy=true
 时尚运动X,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv014&token=https://t.me/GPT_858
@@ -1223,8 +1230,6 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 中视,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv040
 中视,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv040&token=https://t.me/GPT_858
 中视,rtmp://f13h.mine.nu/sat/tv091
-中视新闻,http://220.135.64.124:5050/4gtv-4gtv074/index.m3u8?proxy=true
-中天新闻,http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
 中旺电视,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4010/playlist.m3u8
 猪哥亮歌厅秀,http://220.135.64.124:5050/4gtv-4gtv006/index.m3u8?proxy=true
 猪哥亮歌厅秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
@@ -1240,6 +1245,7 @@ TVBS精采,http://220.135.64.124:5050/4gtv-4gtv067/index.m3u8?proxy=true
 东森购物2,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv103
 东森购物3,http://220.135.64.124:5050/4gtv-live048/index.m3u8?proxy=true
 东森购物4,http://220.135.64.124:5050/4gtv-live049/index.m3u8?proxy=true
+
 外语频道,#genre#
 BLOOMBERG,http://104.250.145.6/livehttpplay?channel_id=16530
 BLOOMBERG,http://nor2live.win:80/livehttpplay?channel_id=16530
