@@ -7,12 +7,6 @@
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
-            "name": "SMARTV",
-            "type": 0,
-            "url": "https://xsmt.ccwu.cc/xsmt/smt.php",
-            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
-        },
-        {
             "name": "移动ITV",
             "type": 0,
             "url": "https://gh-proxy.com/raw.githubusercontent.com/alenin-zhang/IPTV/master/dns-itv.txt",
@@ -46,6 +40,12 @@
             "name": "NAS8916酒店",
             "type": 0,
             "url": "https://nas8916.cc.cd/hotel_tvn.m3u",
+            "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
+        },
+        {
+            "name": "SMARTV",
+            "type": 0,
+            "url": "https://xsmt.ccwu.cc/xsmt/smt.php",
             "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}"
         },
         {
