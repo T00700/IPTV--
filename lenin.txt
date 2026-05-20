@@ -1027,9 +1027,16 @@ VIUTV6,http://122.100.242.52:12179/stream/channelid/750848819?profile=pass
 澳视澳门,http://122.100.242.52:12179/stream/channelid/962050687?profile=pass
 澳视葡文,http://122.100.242.52:12179/stream/channelid/1252295614?profile=pass
 台湾频道,#genre#
+TVBS,http://dbmlasvgas.sylu.cc:8880/stream/29264974-b2b0-418d-85a5-fe02cf74b577/playlist.m3u8
+寰宇新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-longturn14
+寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
+中天新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
+中天新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
+历史,http://dbmlasvgas.sylu.cc:8880/stream/c76f2a04-f804-47ab-b555-1bc5516c4bfa/playlist.m3u8
+麦哲伦,http://dbmlasvgas.sylu.cc:8880/stream/fd2db9e3-a596-4a98-ab1b-bc6851e78c52/playlist.m3u8
+寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 TVBS NEWS,http://jnzq.ohoyee.com:9080/live/xingjiaoge-tvbsxw.m3u8
 TVBS,https://3ea9e6-31f5e6.kylintv.tv/live/tvbshd_iphone.m3u8
-寰宇新闻,http://jnzq.ohoyee.com:9080/live/xiangjiaoge-hyxw.m3u8
 中天新闻,https://3ea9e6-31f5e6.kylintv.tv/live/cti_iphone.m3u8
 中天新闻,rtmp://vip.huahong.pro/live/xingjiaoge-ztxw2
 中天亚洲,http://122.100.242.52:12179/stream/channelid/1097824991?profile=pass
@@ -1041,8 +1048,6 @@ TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3
 华视新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv052
 华视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv052&token=https://t.me/GPT_858
 寰宇财经,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv158
-寰宇新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=litv-longturn14
-寰宇新闻,https://litv.tzh911.qzz.io/litv.php?id=litv-longturn14&token=https://t.me/GPT_858
 寰宇新闻台湾,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv156
 寰宇新闻台湾,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv156&token=https://t.me/GPT_858
 民视新闻,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4012/playlist.m3u8
@@ -1051,8 +1056,6 @@ TVBS亚洲,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4005/playlist.m3
 台视新闻,http://bt.sc1970.xyz:9099/38.64.72.148/hls/modn/list/4013/playlist.m3u8
 中视新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv074
 中视新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=https://t.me/GPT_858
-中天新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv009
-中天新闻,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv009&token=https://t.me/GPT_858
 第1商业,http://xclasvgas.sylu.cc:8880/?token=dbm&id=4gtv-4gtv104
 倪珍播新闻,http://xclasvgas.sylu.cc:8880/?token=dbm&id=nnews-zh
 AXN,http://hao6688.3322.org:30066/stream/channelid/843456280?ticket=3b36e3d97b41957376702ef15837c5d6961ed8d6&profile=pass
